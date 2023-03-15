@@ -4,3 +4,4 @@ sqlalchemy==1.4.16
 PyMySQL
 mysql.connector
 pandas
+requests
