@@ -16,6 +16,6 @@ To run this project, you must have python and jupyter installed as well as run `
 **notebook/prepare_data.ipynb:** The code that extracts the data from the database to be put in different sources <br />
 **notebook/midterm.ipynb:** The code that runs the ETL process <br />
 **notebook/films.json:** The json data stored at the api endpoint <br />
-**sakila-db/:** The sakila database files used for this project  <br />
+**sakila-db/*:** The sakila database files used for this project  <br />
 **create_date_dim.sql:** The SQL file used to create the date dimension
 
