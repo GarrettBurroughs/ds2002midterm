@@ -3,6 +3,10 @@
 
 This repository hosts the midterm project for DS 2002. This project is an ELT process that takes data from multiple soruces (A MySQL database, a MongoDB cluster, and an API endpoint), and conglomerates them into a data warehouse that uses a star schema to represent a rental fact.  
 
+# Submission
+For grading purposes, look at [notebook/midterm.ipynb](notebook/midterm.ipynb) For the ETL process and [notebook/prepare_data.ipynb](notebook/prepare_data.ipynb) for the code that sets up the data in the different sources. More information about this repository can be read below.
+
+
 ## Running
 **Note:** These are instructions if you wish to run the project completely on your own with your own databases, clusters, and endpoints. The project is configured to work with pre-existing databases and endpoints out of the box.
 
